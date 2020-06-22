@@ -1,5 +1,6 @@
 #Programa criado por Bruno Dias para aula de Python
 #Licença para uso e edição desde que citado o autor
+#brunocdias@live.com
 
 import socket
 
