@@ -1,3 +1,6 @@
+#Programa criado por Bruno Dias para aula de Python
+#Licença para uso e edição desde que citado o autor
+
 import socket
 
 ip = input("Digite o host ou ip a ser verificado: ")
